@@ -1,0 +1,7 @@
+# não adiciona os binarios
+/target/
+
+# aruivos do eclipse
+/.project
+/.classpath
+/.settings/
